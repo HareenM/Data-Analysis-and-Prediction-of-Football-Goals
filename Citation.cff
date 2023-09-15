@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Maddipatla
+    given-names: Hareen
+    orcid: https://orcid.org/0009-0000-0449-8502
+title: " Data Analysis and PRediction of Football Goals"
+version: 1.0.0
