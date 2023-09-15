@@ -1,10 +1,10 @@
-# Data-Analysis-and-Prediction-of-Football-Goals
+# FOOTBALL PLAYER TRACKING WITH YOLOV8, MATCH ANALYSIS AND GOAL PREDICTION
 Project (AY: 2022-2023)
 
-Project Name: Data Analysis and Prediction of Football Goals
+Project Name: Football Player Tracking with YOLOv8, Match Analysis and Goal Prediction
 
 Description:
-The Data Analysis and Prediction of Football Goals project is a comprehensive and innovative software solution that leverages advanced data analytics techniques to analyze historical football match data and predict the number of goals scored in upcoming matches. By combining the power of machine learning algorithms, statistical models, and extensive data processing, this project aims to provide valuable insights to football enthusiasts, analysts, and betting enthusiasts for informed decision-making and strategic planning.
+The Football Player Tracking with YOLOv8, Match Analysis and Goal Prediction project is a comprehensive and innovative software solution that leverages advanced data analytics techniques to analyze historical football match data and predict the number of goals scored in upcoming matches. By combining the power of machine learning algorithms, statistical models, and extensive data processing, this project aims to provide valuable insights to football enthusiasts, analysts, and betting enthusiasts for informed decision-making and strategic planning.
 
 Key Features:
 
